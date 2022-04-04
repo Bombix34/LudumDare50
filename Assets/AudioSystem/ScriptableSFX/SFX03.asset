@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cf35d8fc3f884871bba8933d5b9d6cd, type: 3}
+  m_Name: SFX03
+  m_EditorClassIdentifier: 
+  m_AudioMixerGroup: {fileID: 0}
+  audioSourceType: 3
+  m_IsLooping: 0
+  m_Clips:
+  - {fileID: 8300000, guid: e68c52d13fed2ce47afe12c32f96f01c, type: 3}
+  m_Volume:
+    minValue: 0.68379444
+    maxValue: 1
+  m_Pitch:
+    minValue: 0.90258074
+    maxValue: 1.2373866
